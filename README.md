@@ -4,9 +4,12 @@
 
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
  
+ 
 - 👨‍💻 All of my projects are available [@KevinDavail](github.com/KevinDavai/)
 
+
 - 💬 Ask me about **Astronomy & FrameWork Symfony 😆**
+
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
@@ -54,7 +57,7 @@
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
     <a href="https://vuejs.org/" target="_blank">
-    <img src="  https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs"/> 
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs"/> 
   </a>
 </p>
 
