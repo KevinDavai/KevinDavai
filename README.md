@@ -1,4 +1,4 @@
-[![KevinDavai's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/KevinDavai)
+[![KevinDavai's GitHub Banner](./assets/GitHubHeaderKevin.png)](https://github.com/KevinDavai)
 
 <h1 align="center">Hi, I'm Davailles Kevin<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate frontend/backend developer and a student from IUT at Le-Puy-En-Velay.</h3>
