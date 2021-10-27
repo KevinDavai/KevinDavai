@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Davailles Kevin<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate frontend/backend developer and a student from IUT at Le-Puy-En-Velay.</h3>
 
- <br />
 - 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
  
-  <br />
 - 👨‍💻 All of my projects are available [@KevinDavail](github.com/KevinDavai/)
 
- <br />
 - 💬 Ask me about **Astronomy & FrameWork Symfony 😆**
 
- <br />
 - ⚡ Fun fact **Coding is a passion and not profession.**
  <br />
 
