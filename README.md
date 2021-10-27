@@ -79,9 +79,9 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+  <a href="https://www.mysql.com/fr/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -109,7 +109,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/kevindavailles/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
